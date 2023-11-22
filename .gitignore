@@ -1,0 +1,7 @@
+.idea
+bin
+build
+.vscode/settings.json
+*.pdf
+*.html
+.DS_Store
